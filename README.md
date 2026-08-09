@@ -2,6 +2,10 @@
 
 <p align="center"> <img width="300" height="228" alt="1000049061" src="https://github.com/user-attachments/assets/ef82aa09-3b06-4716-b1ca-f9f1c7bfa0f3" />
 
-![Github Views](https://views.igorkowalczyk.dev/api/badge/desiredlife?label=crafters+⛏️&labelColor=ffffff&color=B63636) 
+![Github Views](https://views.igorkowalczyk.dev/api/badge/desiredlife?label=crafters+⛏️&labelColor=ffffff&color=B63636)
+
+ import requests
+user = requests.get("https://api.github.com/users/torvalds").json()
+print("Followers:", user["desiredlife"])
 
 ill try to rmk this
