@@ -4,8 +4,7 @@
 
 ![Github Views](https://views.igorkowalczyk.dev/api/badge/desiredlife?label=crafters+⛏️&labelColor=ffffff&color=B63636)
 
- import requests
-user = requests.get("https://api.github.com/users/torvalds").json()
+ ("https://api.github.com/users/torvalds").json()
 print("Followers:", user["desiredlife"])
 
 ill try to rmk this
