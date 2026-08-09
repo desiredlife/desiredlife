@@ -1,5 +1,7 @@
   <div align="center">
 
+<img width="730" height="61" alt="1000060271" src="https://github.com/user-attachments/assets/053ee4ad-e603-46c7-a437-24edae687198" />
+
 <p align="center"> <img width="300" height="228" alt="1000049061" src="https://github.com/user-attachments/assets/ef82aa09-3b06-4716-b1ca-f9f1c7bfa0f3" />
 
 ꒰ঌㅤ![Github Views](https://views.igorkowalczyk.dev/api/badge/desiredlife?label=crafters+⛏️&labelColor=ffffff&color=B63636) 
