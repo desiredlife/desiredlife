@@ -6,7 +6,8 @@
 <img width="30" height="30" alt="1000060195" src="https://github.com/user-attachments/assets/b93188ae-4ca6-4d30-9b14-8d8e2876853e" />
  <img alt="GitHub followers" src="https://img.shields.io/github/followers/desiredlife?style=square&label=resources&labelColor=ffffff&color=b63636">ㅤ໒꒱
 
-<p align="center"> 
+</p>
+
 <table>
 <tr>
 <td>
