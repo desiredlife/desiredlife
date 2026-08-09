@@ -4,4 +4,4 @@
 
 ![Github Views](https://views.igorkowalczyk.dev/api/badge/desiredlife?label=crafters+⛏️&labelColor=ffffff&color=B63636)
 
-> ill try to rmk this
+ill try to rmk this
