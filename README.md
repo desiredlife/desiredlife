@@ -2,6 +2,6 @@
 
 <p align="center"> <img width="300" height="228" alt="1000049061" src="https://github.com/user-attachments/assets/ef82aa09-3b06-4716-b1ca-f9f1c7bfa0f3" />
 
-![Github Views](https://views.igorkowalczyk.dev/api/badge/desiredlife?label=crafters+⛏️&labelColor=ffffff&color=B63636) <img alt="GitHub followers" src="https://img.shields.io/github/followers/desiredlife?style=flat&label=resources&labelColor=ffffff&color=b63636">
+![Github Views](https://views.igorkowalczyk.dev/api/badge/desiredlife?label=crafters+⛏️&labelColor=ffffff&color=B63636) <img alt="GitHub followers" src="https://img.shields.io/github/followers/desiredlife?label=resources&labelColor=ffffff&color=b63636">
 
 ill try to rmk this
