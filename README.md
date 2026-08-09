@@ -13,7 +13,7 @@
 <table>
 <tr>
 <td>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7837A6&center=true&vCenter=true&width=435&lines=%22i+will+work+on+read.me+ok.%22" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7837A6&center=true&vCenter=true&width=435&lines=%22but+im+a+survivor+!+i+adapt,+i+improvise,+i..+watch+youtube+tutorials....%22" alt="Typing SVG" /></a>
 </table>
 </tr>
 </td>
