@@ -11,4 +11,4 @@
 <table>
 <tr>
 <td>
-<p align="center"> hi im still working on read.me ok
+hi im still working on read.me ok
