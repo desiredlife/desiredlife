@@ -14,6 +14,6 @@
 
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yik5phb4lpminpnfeirjuxha4y&cover_image=true&theme=spotify-embed&show_offline=true&background_color=d662be&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true&bar_color=53b14f&mode=light)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yik5phb4lpminpnfeirjuxha4y&cover_image=true&theme=spotify-embed&show_offline=true&background_color=d662be&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true&bar_color=53b14f&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 
 <img width="730" height="61" alt="1000060276" src="https://github.com/user-attachments/assets/0cdbac35-6bb6-4d8c-8d12-514ef46e25df" />
